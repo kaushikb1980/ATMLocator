@@ -1,1 +1,9 @@
 /target/
+*.iml
+**/target
+*.log
+.idea
+.idea/sonarlint/*
+# Specific files to not be ignored.
+sonarIssues.xml
+compiler.xml
